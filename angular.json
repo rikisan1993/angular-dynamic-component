@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-dynamic-component"
+    }
+  },
+  "defaultProject": "ng-dynamic-component",
+  "cli": {
+    "analytics": "56c08add-5bb6-433f-9363-7e458973f4d4"
+  }
 }
